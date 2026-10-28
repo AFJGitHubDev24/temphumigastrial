@@ -6,7 +6,7 @@ from datetime import datetime, timedelta
 
 # Set page config
 st.set_page_config(page_title="Cold-Chain Sensor Dashboard", layout="wide")
-st.title("🌡️ Cold-Chain Environmental Monitoring Dashboard")
+st.title("🌡️ Cold-Chain Sensor Monitoring Dashboard")
 st.markdown("This dashboard displays real-time tracking of temperature, humidity, and gas spoilage levels across cold-chain operations.")
 
 # 1. Sidebar Configuration for Cargo Types & Multi-Range Thresholds
